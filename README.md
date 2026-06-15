@@ -44,5 +44,5 @@ overt subject (who needs/ has to/ can) | Whether the subject of the construction
 case of overt subject (who needs/ has to/ can) | Case marking of the subject | no (if not overt), dat, nom, gen
 animacy | Animacy of the subject | hum, animal, inan, hum_group, animal_group
 counted in corpus | Whether the example is counted in the article as belonging to the 1890-1910s corpus of necessity examples, 2010s corpus of necessity examples or neither
-counted in subcorpus
-(im)personality
+counted in subcorpus | For 2010s examples: whether the example is counted as belonging to the subcorpus of game descriptions, recipes or way descriptions | games, recipes, way descriptions
+(im)personality | For subcorpora: construal of the situation | personal, impersonal
