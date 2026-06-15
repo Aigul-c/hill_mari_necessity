@@ -17,17 +17,17 @@ https://creativecommons.org/licenses/by/4.0/
 | Column | Description | Values |
 |---------|---------|---------|
 source | Where the example comes from | 
-page | |
-year_of_occurrence |
-village_in_source |
-village |
-latitude |
-longitude
-spontaneous/ formullaic
-mari
-translation_Russian
-translation_German
-translation_Latin
+page | Page(s) where the the example is found |
+year_of_occurrence | Year the example was recorded or written down
+village_in_source | Village as named in the source (e.g., obsolete name) | 
+village | Village as named today, e.g., on Wikipedia
+latitude | latitude of the settlement
+longitude | longitude of the settlement
+spontaneous/ formulaic | Is the construction likely to have been produced spontaneously or retrieved from memory | 
+mari | Example in Hill Mari
+translation_Russian | Translation into Russian, if available
+translation_German | Translation into German, if available
+translation_Latin | Translation into Latin, if available
 mari_marker
 copula / retrospective marker
 use
