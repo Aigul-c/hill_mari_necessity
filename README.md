@@ -30,19 +30,19 @@ mari | Example in Hill Mari (phonological transcription)
 translation_Russian | Translation into Russian, if available
 translation_German | Translation into German, if available
 translation_Latin | Translation into Latin, if available
-mari_marker | The modal marker found 
-copula / retrospective marker |
-use | 
-modal / non-modal |
-complement |
-semantics |
-modality type (vAP) |
-modality type (descriptive categories) |
-negation |
-question (true question) |
-overt subject (who needs/ has to/ can) |
-case of overt subject (who needs/ has to/ can) |
-animacy |
-counted in corpus | Whether the example is counted in the article as belonging to the 1890-1910s corpus, 2010s corpus or neither
+mari_marker | The (modal) marker found in the example
+copula / retrospective marker | Copulas and retrospective markers accompanying the target (modal) form
+use | Broad use type (mostly according to syntactic position) | predicate, attribute, head, converb, discourse (e.g., in parentheticals)
+modal / non-modal | Modal in strict sense (necessity or possibility) or non-modal
+complement | Type of the complement | NP, VP (incl. elided), sentence
+semantics | Type of use according to semantics
+modality type (vAP) | For modal uses, modality type according to van der Auwera, Plungian (1998) | participant-internal, participant-external, deontic, epistemic
+modality type (descriptive categories) | For modal uses, modality type bottom-up
+negation | Does the necessity construction contain negation or not? | 0, 1
+question (true question) | Is the necessity construction found in an interrogative sentence? | yes, no, no (indir), no (sluicing)
+overt subject (who needs/ has to/ can) | Whether the subject of the construction is overt | yes, no
+case of overt subject (who needs/ has to/ can) | Case marking of the subject | no (if not overt), dat, nom, gen
+animacy | Animacy of the subject | hum, animal, inan, hum_group, animal_group
+counted in corpus | Whether the example is counted in the article as belonging to the 1890-1910s corpus of necessity examples, 2010s corpus of necessity examples or neither
 counted in subcorpus
 (im)personality
